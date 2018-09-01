@@ -1,0 +1,1 @@
+X = load('bat1.mat');
